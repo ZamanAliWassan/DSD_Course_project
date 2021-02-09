@@ -61,12 +61,23 @@ Programming code:...............................................................
 The proograming is done in Verilog and Vhdl language. 
 the modular approach is used to divide the programs in to small pieces so that error can be detected easily. 
 We have used the MIT refrence manual for code and logics. 
+                        
 
 
 
 
 
-                                   
-                                   
+
+
+
+
+
+
+
+
+
+
+
+
 
 
