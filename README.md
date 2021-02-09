@@ -63,10 +63,8 @@ the modular approach is used to divide the programs in to small pieces so that e
 We have used the MIT refrence manual for code and logics. 
                         
 
-![](projectFlow.png)
+![](images/projectFlow.png)
 
-
-<img src = "projectFlow.png">
 
 
 
