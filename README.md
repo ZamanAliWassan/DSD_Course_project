@@ -72,7 +72,8 @@ there is one top module of this project which is XDC Demo.
 
 
 
-<img src = "projectFlow2.PNG">
+<img src = "https://github.com/ZamanAliWassan/DSD_Course_project/blob/main/projectFlow2.png">
+
 
 
 
