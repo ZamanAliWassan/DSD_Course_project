@@ -66,7 +66,7 @@ We have used the MIT refrence manual for code and logics.
 
 
 
-![](projectFlow.png)
+<img src = "projectFlow.png">
 
 
 
