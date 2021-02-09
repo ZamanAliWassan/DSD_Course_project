@@ -56,13 +56,19 @@ Each LED will need certain voltage to operate. which is to be calculated as foll
 above calculaion shows that the single LED will require supply 244uV to operate. 
 Vref for ADCs can be different in different boards. this ADC which is used by us has the input voltage of 1.5V to 3.3V as input and it can have 0 to 1V as a refrence voltage.
 
-Programming code:.........................................................................................................................................................
+Programming code (Moduler Approach):................................................................................................................................
+
 
 The proograming is done in Verilog and Vhdl language. 
 the modular approach is used to divide the programs in to small pieces so that error can be detected easily. 
 We have used the MIT refrence manual for code and logics. 
 following picture represents the modules used in our project modular approach. 
 there is one top module of this project which is XDC Demo. 
+
+
+<img src = "projectFlow.PNG">
+
+
 
 XADCdemo:.................................................................................................................................................................
 
