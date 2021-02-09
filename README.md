@@ -66,7 +66,7 @@ following picture represents the modules used in our project modular approach.
 there is one top module of this project which is XDC Demo. 
 
 
-<img src = "images/projectFlow2.PNG">
+<img src = "projectFlow2.PNG">
 
 
 
