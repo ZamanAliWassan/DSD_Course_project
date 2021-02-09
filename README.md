@@ -66,7 +66,9 @@ We have used the MIT refrence manual for code and logics.
 
 
 
-<img src = "C:/Users/IBA Student/Desktop/projectFlow2.png">
+<img src = "Desktop/projectFlow2.png">
+
+
 
 
 
