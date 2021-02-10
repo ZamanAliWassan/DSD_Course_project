@@ -155,7 +155,7 @@ actually PWM is an square wave with duty cycle. its duty cycle canbe controlled 
 because of these PWms the LEDs pattern change and the outputs cpomes simple and visible. 
 
 
-
+<img src = "https://github.com/ZamanAliWassan/DSD_Course_project/blob/main/PWM_simulation.PNG">
 
 
 
