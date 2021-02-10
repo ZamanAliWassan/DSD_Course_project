@@ -59,6 +59,10 @@ Vref for ADCs can be different in different boards. this ADC which is used by us
 Programming code (Moduler Approach):................................................................................................................................
 
 
+<img src = "https://github.com/ZamanAliWassan/DSD_Course_project/blob/main/modular_approach.PNG">
+
+
+
 The proograming is done in Verilog and Vhdl language. 
 the modular approach is used to divide the programs in to small pieces so that error can be detected easily. 
 We have used the MIT refrence manual for code and logics. 
@@ -72,7 +76,7 @@ there is one top module of this project which is XDC Demo.
 
 
 
-<img src = "https://github.com/ZamanAliWassan/DSD_Course_project/blob/main/projectFlow2.png">
+<img src = "https://github.com/ZamanAliWassan/DSD_Course_project/blob/main/projectFlow.png">
 
 
 
